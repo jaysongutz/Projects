@@ -1,0 +1,8 @@
+Number of Unique Stop Words = 127
+Raw Review Ratings = [[4, the, jungle, book, is, awesome], [2, the, lion, king, is, awe-inspiring], [0, jack, and, jill, is, worst], [1, finding, dory, is, worst, than, finding, nemo], [3, zootopia, is, fantastic], [3, lion, king, is, fantastic], [4, king's, speech, is, amazing], [2, i, fell, asleep, watching, finding, dory], [3, the, jungle, book, was, alright], [4, i'll, definitely, rewatch, the, lion, king], [3, i, cried, watching, the, lion, king!], [4, i, watched, the, lion, king, 3, times.]]
+Clean Review Ratings = [[4, jungle, book, awesome], [2, lion, king, awe-inspiring], [0, jack, jill, worst], [1, finding, dory, worst, finding, nemo], [3, zootopia, fantastic], [3, lion, king, fantastic], [4, king's, speech, amazing], [2, fell, asleep, watching, finding, dory], [3, jungle, book, alright], [4, i'll, definitely, rewatch, lion, king], [3, cried, watching, lion, king!], [4, watched, lion, king, 3, times.]]
+Stop words = 29
+Raw Reviews = [[i, like, the, jungle, book], [the, lion, king, is, fantastic], [jack, and, jill, is, bad], [finding, nemo, is, excellent], [zootopia, is, awesome], [katradhu, tamil, is, amazing], [forrest, gump, is, my, favorite]]
+Clean Reviews = [[like, jungle, book], [lion, king, fantastic], [jack, jill, bad], [finding, nemo, excellent], [zootopia, awesome], [katradhu, tamil, amazing], [forrest, gump, favorite]]
+Clean Reviews with Ratings = [[3, like, jungle, book], [3, lion, king, fantastic], [1, jack, jill, bad], [1, finding, nemo, excellent], [4, zootopia, awesome], [3, katradhu, tamil, amazing], [2, forrest, gump, favorite]]
+Number of Reviews Written = 7
