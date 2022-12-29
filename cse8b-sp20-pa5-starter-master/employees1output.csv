@@ -1,6 +1,0 @@
-Hourly Employee: empId=1, name=Umang Sinha, hoursWorked=30.0, wage=15.0, Pay: 450.0
-Hourly Employee: empId=2, name=Sydney Wong, hoursWorked=25.0, wage=14.0, Pay: 350.0
-Salaried Employee: empId=3, name=Winny Wilson, baseSalary=150300.0, numWeeks=52, Pay: 5780.7692307692305
-Salaried Employee: empId=4, name=Annie Wai, baseSalary=100200.0, numWeeks=40, Pay: 5010.0
-Commissioned Employee: empId=5, name=Amy Li, grossSales=40.0, commissionRate=0.51, Pay: 20.4
-Commissioned Employee: empId=6, name=Jeffrey Yeung, grossSales=50.0, commissionRate=0.42, Pay: 21.0
